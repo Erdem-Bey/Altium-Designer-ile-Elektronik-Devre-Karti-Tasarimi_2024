@@ -1,0 +1,48 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\Projects\((Inventory))\((Inventory)).PrjPcb
+[Project2]
+ProjectPath=..\Projects\STM32F417 Demo Board\STM32F417 Demo Board.PrjPcb
+[Project3]
+ProjectPath=..\Libraries\Capacitor\Capacitor.LibPkg
+[Project4]
+ProjectPath=..\Libraries\Connector - Header\Connector - Header.LibPkg
+[Project5]
+ProjectPath=..\Libraries\Connector - JST\Connector - JST.LibPkg
+[Project6]
+ProjectPath=..\Libraries\Connector - Registered Jack\Connector - Registered Jack.LibPkg
+[Project7]
+ProjectPath=..\Libraries\Connector - USB\Connector - USB.LibPkg
+[Project8]
+ProjectPath=..\Libraries\Crystal\Crystal.LibPkg
+[Project9]
+ProjectPath=..\Libraries\Deneme\Deneme.LibPkg
+[Project10]
+ProjectPath=..\Libraries\Diode\Diode.LibPkg
+[Project11]
+ProjectPath=..\Libraries\IC - Buffer\IC - Buffer.LibPkg
+[Project12]
+ProjectPath=..\Libraries\IC - Clock, Timing, Oscillator\IC - Clock, Timing, Oscillator.LibPkg
+[Project13]
+ProjectPath=..\Libraries\IC - Interface\IC - Interface.LibPkg
+[Project14]
+ProjectPath=..\Libraries\IC - MCU\IC - MCU.LibPkg
+[Project15]
+ProjectPath=..\Libraries\IC - Power - DC-DC\IC - Power - DC-DC.LibPkg
+[Project16]
+ProjectPath=..\Libraries\Inductor\Inductor.LibPkg
+[Project17]
+ProjectPath=..\Libraries\Mechanical\Mechanical.LibPkg
+[Project18]
+ProjectPath=..\Libraries\Module - LCD\Module - LCD.LibPkg
+[Project19]
+ProjectPath=..\Libraries\Resistor\Resistor.LibPkg
+[Project20]
+ProjectPath=..\Libraries\Switch\Switch.LibPkg
+[Project21]
+ProjectPath=..\Libraries\Transformer\Transformer.LibPkg
+[Project22]
+ProjectPath=..\Libraries\Transistor\Transistor.LibPkg
+[Project23]
+ProjectPath=D:\Depo\Google Drive\Altium Designer\Projects\Rst\Rskk - Üst Kat - v1.1\Rskk - Üst Kat - v1.1.PrjPcb

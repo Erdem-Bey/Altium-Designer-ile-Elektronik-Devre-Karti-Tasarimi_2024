@@ -1,0 +1,41 @@
+Record=TopLevelDocument|FileName=Resistor.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Resistor.SchDoc|Designator=100-120|SchDesignator=100-120|FileName=Resistor - 100-120.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Resistor - 100-120.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Resistor.SchDoc|Designator=121-145|SchDesignator=121-145|FileName=Resistor - 121-145.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Resistor - 121-145.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Resistor.SchDoc|Designator=147-176|SchDesignator=147-176|FileName=Resistor - 147-176.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Resistor - 147-176.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Resistor.SchDoc|Designator=178-213|SchDesignator=178-213|FileName=Resistor - 178-213.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Resistor - 178-213.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Resistor.SchDoc|Designator=215-258|SchDesignator=215-258|FileName=Resistor - 215-258.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Resistor - 215-258.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Resistor.SchDoc|Designator=261-312|SchDesignator=261-312|FileName=Resistor - 261-312.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=Resistor - 261-312.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Resistor.SchDoc|Designator=316-379|SchDesignator=316-379|FileName=Resistor - 316-379.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=Resistor - 316-379.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Resistor.SchDoc|Designator=383-459|SchDesignator=383-459|FileName=Resistor - 383-459.SchDoc|SheetNumber=9|SymbolType=Normal|RawFileName=Resistor - 383-459.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Resistor.SchDoc|Designator=464-556|SchDesignator=464-556|FileName=Resistor - 464-556.SchDoc|SheetNumber=10|SymbolType=Normal|RawFileName=Resistor - 464-556.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Resistor.SchDoc|Designator=562-673|SchDesignator=562-673|FileName=Resistor - 562-673.SchDoc|SheetNumber=11|SymbolType=Normal|RawFileName=Resistor - 562-673.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Resistor.SchDoc|Designator=681-816|SchDesignator=681-816|FileName=Resistor - 681-816.SchDoc|SheetNumber=12|SymbolType=Normal|RawFileName=Resistor - 681-816.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Resistor.SchDoc|Designator=825-988|SchDesignator=825-988|FileName=Resistor - 825-988.SchDoc|SheetNumber=13|SymbolType=Normal|RawFileName=Resistor - 825-988.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Resistor.SchDoc|Designator=Trim Pot|SchDesignator=Trim Pot|FileName=Resistor - Trim Pot.SchDoc|SheetNumber=14|SymbolType=Normal|RawFileName=Resistor - Trim Pot.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Capacitor - Ceramic.SchDoc|SheetNumber=15
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Connector - Header.SchDoc|SheetNumber=17
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Connector - JST.SchDoc|SheetNumber=18
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Connector - Registered Jack.SchDoc|SheetNumber=19
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Connector - USB.SchDoc|SheetNumber=20
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Connector.SchDoc|SheetNumber=16
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Crystal.SchDoc|SheetNumber=21
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Diode - Led.SchDoc|SheetNumber=27
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Diode - Rectifer.SchDoc|SheetNumber=23
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Diode - Schottky.SchDoc|SheetNumber=24
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Diode - TVS.SchDoc|SheetNumber=25
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Diode - Zener.SchDoc|SheetNumber=26
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Diode.SchDoc|SheetNumber=22
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Ferrite.SchDoc|SheetNumber=28
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=IC - Buffer.SchDoc|SheetNumber=29
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=IC - Clock, Timing, Oscillator.SchDoc|SheetNumber=30
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=IC - Interface.SchDoc|SheetNumber=32
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=IC - MCU.SchDoc|SheetNumber=31
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=IC - Power - DC-DC.SchDoc|SheetNumber=33
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Inductor.SchDoc|SheetNumber=34
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Mechanical.SchDoc|SheetNumber=35
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Module - LCD.SchDoc|SheetNumber=37
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Module.SchDoc|SheetNumber=36
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Switch.SchDoc|SheetNumber=38
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Transformer.SchDoc|SheetNumber=39
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Transistor - BJT.SchDoc|SheetNumber=40
+Record=NoMainPathDocument|SourceDocument=Resistor.SchDoc|FileName=Transistor - Mosfet.SchDoc|SheetNumber=41
