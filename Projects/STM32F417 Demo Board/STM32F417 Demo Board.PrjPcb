@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Prototip
+CurrentVariant=Prototip_Assembly
 
 [Preferences]
 PrefsVaultGUID=
@@ -493,6 +493,108 @@ GenerateClassCluster=0
 DocumentUniqueId=BHRTKINH
 
 [ProjectVariant1]
+UniqueId=A05A65DF-6B6D-49B5-8E70-ACEAE371099D
+Description=Prototip_Assembly
+AllowFabrication=0
+ParameterCount=0
+VariationCount=94
+Variation1=Designator=R600|UniqueId=\SRWJNUJS\OTIDJAHB|Kind=1|AlternatePart=
+Variation2=Designator=R603|UniqueId=\SRWJNUJS\MORSWQKQ|Kind=1|AlternatePart=
+Variation3=Designator=R604|UniqueId=\SRWJNUJS\CITPBXMQ|Kind=1|AlternatePart=
+Variation4=Designator=R602|UniqueId=\SRWJNUJS\FCMHMYQF|Kind=1|AlternatePart=
+Variation5=Designator=R601|UniqueId=\SRWJNUJS\ENONKILL|Kind=1|AlternatePart=
+Variation6=Designator=R620|UniqueId=\LAXBNEOP\RCOLRWIE|Kind=1|AlternatePart=
+Variation7=Designator=R100|UniqueId=\WGUWAQQN\RQZUCDVU|Kind=1|AlternatePart=
+Variation8=Designator=R108|UniqueId=\WGUWAQQN\NHQUNCKW|Kind=1|AlternatePart=
+Variation9=Designator=C103|UniqueId=\WGUWAQQN\AYBYFNWX|Kind=1|AlternatePart=
+Variation10=Designator=R114|UniqueId=\WGUWAQQN\NGRRHRKJ|Kind=1|AlternatePart=
+Variation11=Designator=R115|UniqueId=\WGUWAQQN\VOESFWPS|Kind=1|AlternatePart=
+Variation12=Designator=R710|UniqueId=\FURUNPHM\RSTUGSUE|Kind=1|AlternatePart=
+Variation13=Designator=R711|UniqueId=\FURUNPHM\VUILKQTG|Kind=1|AlternatePart=
+Variation14=Designator=R716|UniqueId=\FURUNPHM\JWAOOASB|Kind=1|AlternatePart=
+Variation15=Designator=R670|UniqueId=\YSLMFFYB\FVBEXTZU|Kind=1|AlternatePart=
+Variation16=Designator=R669|UniqueId=\YSLMFFYB\RGRRAVDV|Kind=1|AlternatePart=
+Variation17=Designator=R747|UniqueId=\AYYYGIAS\LMNUCJHU|Kind=1|AlternatePart=
+Variation18=Designator=R745|UniqueId=\AYYYGIAS\DYVRXIAV|Kind=1|AlternatePart=
+Variation19=Designator=R657|UniqueId=\MZHRRXGV\OIVHICKO|Kind=1|AlternatePart=
+Variation20=Designator=R658|UniqueId=\MZHRRXGV\AJUNTRTW|Kind=1|AlternatePart=
+Variation21=Designator=R641|UniqueId=\MZHRRXGV\KOVXRTDL|Kind=1|AlternatePart=
+Variation22=Designator=R682|UniqueId=\OQMCAUZW\QAKYJNDU|Kind=1|AlternatePart=
+Variation23=Designator=R683|UniqueId=\OQMCAUZW\GQVIIGUT|Kind=1|AlternatePart=
+Variation24=Designator=R200|UniqueId=\VXRJLEIY\QWOOMJYZ|Kind=1|AlternatePart=
+Variation25=Designator=R203|UniqueId=\VXRJLEIY\YEZPTKPP|Kind=1|AlternatePart=
+Variation26=Designator=Housing300|UniqueId=\AGXWKGLO\PWATDHPB|Kind=1|AlternatePart=
+Variation27=Designator=Pin300|UniqueId=\AGXWKGLO\SDSASYDV|Kind=1|AlternatePart=
+Variation28=Designator=Pin301|UniqueId=\AGXWKGLO\RTJUHXRH|Kind=1|AlternatePart=
+Variation29=Designator=Pin318|UniqueId=\AGXWKGLO\MGARGTQE|Kind=1|AlternatePart=
+Variation30=Designator=Pin319|UniqueId=\AGXWKGLO\OWOWRUFB|Kind=1|AlternatePart=
+Variation31=Designator=Housing304|UniqueId=\AGXWKGLO\YQLSGGCX|Kind=1|AlternatePart=
+Variation32=Designator=Pin342|UniqueId=\AGXWKGLO\HKYJPKKN|Kind=1|AlternatePart=
+Variation33=Designator=Pin341|UniqueId=\AGXWKGLO\AKHOKGUJ|Kind=1|AlternatePart=
+Variation34=Designator=Pin340|UniqueId=\AGXWKGLO\FHOGPSBF|Kind=1|AlternatePart=
+Variation35=Designator=Pin347|UniqueId=\AGXWKGLO\BQGDFOVW|Kind=1|AlternatePart=
+Variation36=Designator=Pin339|UniqueId=\AGXWKGLO\NLSGLKOC|Kind=1|AlternatePart=
+Variation37=Designator=Pin346|UniqueId=\AGXWKGLO\BHUOHSHH|Kind=1|AlternatePart=
+Variation38=Designator=Housing303|UniqueId=\AGXWKGLO\THKKLSQB|Kind=1|AlternatePart=
+Variation39=Designator=Pin348|UniqueId=\AGXWKGLO\QMAETOYF|Kind=1|AlternatePart=
+Variation40=Designator=Pin336|UniqueId=\AGXWKGLO\YWUHCURH|Kind=1|AlternatePart=
+Variation41=Designator=Pin337|UniqueId=\AGXWKGLO\RITXUTRH|Kind=1|AlternatePart=
+Variation42=Designator=Pin338|UniqueId=\AGXWKGLO\WDDDUYJU|Kind=1|AlternatePart=
+Variation43=Designator=Pin343|UniqueId=\AGXWKGLO\CCTPPUTQ|Kind=1|AlternatePart=
+Variation44=Designator=Pin344|UniqueId=\AGXWKGLO\FGXSJGHD|Kind=1|AlternatePart=
+Variation45=Designator=Pin345|UniqueId=\AGXWKGLO\PKGSDCMC|Kind=1|AlternatePart=
+Variation46=Designator=Pin349|UniqueId=\AGXWKGLO\JGRUWWMK|Kind=1|AlternatePart=
+Variation47=Designator=Pin350|UniqueId=\AGXWKGLO\EUDEGUUP|Kind=1|AlternatePart=
+Variation48=Designator=Pin351|UniqueId=\AGXWKGLO\YENMSGQP|Kind=1|AlternatePart=
+Variation49=Designator=Pin328|UniqueId=\AGXWKGLO\FMLPQCHW|Kind=1|AlternatePart=
+Variation50=Designator=Pin302|UniqueId=\AGXWKGLO\WAVEAXTT|Kind=1|AlternatePart=
+Variation51=Designator=Pin303|UniqueId=\AGXWKGLO\FZQQTUUX|Kind=1|AlternatePart=
+Variation52=Designator=Pin304|UniqueId=\AGXWKGLO\MOPASCQC|Kind=1|AlternatePart=
+Variation53=Designator=Pin310|UniqueId=\AGXWKGLO\GTHTDGZU|Kind=1|AlternatePart=
+Variation54=Designator=Pin311|UniqueId=\AGXWKGLO\MWLXBYRK|Kind=1|AlternatePart=
+Variation55=Designator=Pin312|UniqueId=\AGXWKGLO\FUSVMXJB|Kind=1|AlternatePart=
+Variation56=Designator=Pin320|UniqueId=\AGXWKGLO\ZOFYQCLY|Kind=1|AlternatePart=
+Variation57=Designator=Pin321|UniqueId=\AGXWKGLO\TVMTGSZR|Kind=1|AlternatePart=
+Variation58=Designator=Pin322|UniqueId=\AGXWKGLO\MUUVYVYE|Kind=1|AlternatePart=
+Variation59=Designator=Pin305|UniqueId=\AGXWKGLO\IASSAWBO|Kind=1|AlternatePart=
+Variation60=Designator=Pin313|UniqueId=\AGXWKGLO\IUJIDSCT|Kind=1|AlternatePart=
+Variation61=Designator=Pin323|UniqueId=\AGXWKGLO\GVWUDERU|Kind=1|AlternatePart=
+Variation62=Designator=Pin330|UniqueId=\AGXWKGLO\EKSFJVDV|Kind=1|AlternatePart=
+Variation63=Designator=Pin331|UniqueId=\AGXWKGLO\FUKHSRGF|Kind=1|AlternatePart=
+Variation64=Designator=Pin332|UniqueId=\AGXWKGLO\BRXXLCXM|Kind=1|AlternatePart=
+Variation65=Designator=Housing301|UniqueId=\AGXWKGLO\MRUAQHUX|Kind=1|AlternatePart=
+Variation66=Designator=Pin329|UniqueId=\AGXWKGLO\PQXZHXSE|Kind=1|AlternatePart=
+Variation67=Designator=Pin306|UniqueId=\AGXWKGLO\MZYNFZRC|Kind=1|AlternatePart=
+Variation68=Designator=Pin307|UniqueId=\AGXWKGLO\NGTGHTKM|Kind=1|AlternatePart=
+Variation69=Designator=Pin308|UniqueId=\AGXWKGLO\LCQDGAUI|Kind=1|AlternatePart=
+Variation70=Designator=Pin314|UniqueId=\AGXWKGLO\ZMIXGCMT|Kind=1|AlternatePart=
+Variation71=Designator=Pin315|UniqueId=\AGXWKGLO\UWDVYKEP|Kind=1|AlternatePart=
+Variation72=Designator=Pin316|UniqueId=\AGXWKGLO\AOCWXHJF|Kind=1|AlternatePart=
+Variation73=Designator=Pin324|UniqueId=\AGXWKGLO\AJTKRYNN|Kind=1|AlternatePart=
+Variation74=Designator=Pin325|UniqueId=\AGXWKGLO\IHTHZIMS|Kind=1|AlternatePart=
+Variation75=Designator=Pin326|UniqueId=\AGXWKGLO\LUXYFSSL|Kind=1|AlternatePart=
+Variation76=Designator=Pin309|UniqueId=\AGXWKGLO\ABXIOUSI|Kind=1|AlternatePart=
+Variation77=Designator=Pin317|UniqueId=\AGXWKGLO\POMXEJCG|Kind=1|AlternatePart=
+Variation78=Designator=Pin327|UniqueId=\AGXWKGLO\RTVESCAR|Kind=1|AlternatePart=
+Variation79=Designator=Pin333|UniqueId=\AGXWKGLO\BOPWYZFS|Kind=1|AlternatePart=
+Variation80=Designator=Pin334|UniqueId=\AGXWKGLO\YVNCXPXI|Kind=1|AlternatePart=
+Variation81=Designator=Pin335|UniqueId=\AGXWKGLO\LTGJJUPU|Kind=1|AlternatePart=
+Variation82=Designator=Housing302|UniqueId=\AGXWKGLO\LUZDDZXE|Kind=1|AlternatePart=
+Variation83=Designator=Pin360|UniqueId=\AGXWKGLO\EKCXARLL|Kind=1|AlternatePart=
+Variation84=Designator=Housing306|UniqueId=\AGXWKGLO\BUZPVOVF|Kind=1|AlternatePart=
+Variation85=Designator=Pin361|UniqueId=\AGXWKGLO\ULHECQWP|Kind=1|AlternatePart=
+Variation86=Designator=Pin358|UniqueId=\AGXWKGLO\QXRQFFII|Kind=1|AlternatePart=
+Variation87=Designator=Pin359|UniqueId=\AGXWKGLO\RXBTGPXJ|Kind=1|AlternatePart=
+Variation88=Designator=Pin354|UniqueId=\AGXWKGLO\GKBAQCRN|Kind=1|AlternatePart=
+Variation89=Designator=Pin355|UniqueId=\AGXWKGLO\WNSCZSIK|Kind=1|AlternatePart=
+Variation90=Designator=Housing305|UniqueId=\AGXWKGLO\AVPGJHRI|Kind=1|AlternatePart=
+Variation91=Designator=Pin352|UniqueId=\AGXWKGLO\ODUHWMYO|Kind=1|AlternatePart=
+Variation92=Designator=Pin353|UniqueId=\AGXWKGLO\LOZIFCCF|Kind=1|AlternatePart=
+Variation93=Designator=Pin356|UniqueId=\AGXWKGLO\PZZKVQOB|Kind=1|AlternatePart=
+Variation94=Designator=Pin357|UniqueId=\AGXWKGLO\LIOJXUCQ|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[ProjectVariant2]
 UniqueId=D5A9C749-9DCA-4B8B-84A8-CDA211A4B737
 Description=Prototip
 AllowFabrication=0
@@ -525,7 +627,7 @@ Variation24=Designator=R200|UniqueId=\VXRJLEIY\QWOOMJYZ|Kind=1|AlternatePart=
 Variation25=Designator=R203|UniqueId=\VXRJLEIY\YEZPTKPP|Kind=1|AlternatePart=
 ParamVariationCount=0
 
-[ProjectVariant2]
+[ProjectVariant3]
 UniqueId=55FBC0B9-86C6-41AD-BDA2-FB056E683B0F
 Description=Arge
 AllowFabrication=0
@@ -544,7 +646,7 @@ Variation10=Designator=R200|UniqueId=\VXRJLEIY\QWOOMJYZ|Kind=1|AlternatePart=
 Variation11=Designator=R203|UniqueId=\VXRJLEIY\YEZPTKPP|Kind=1|AlternatePart=
 ParamVariationCount=0
 
-[ProjectVariant3]
+[ProjectVariant4]
 UniqueId=55CF8E19-BAE9-4069-A32F-1C26AA4FE834
 Description=Seri
 AllowFabrication=0
@@ -891,10 +993,26 @@ DocumentPath=Project Outputs for STM32F417 Demo Board\PCB_Top_Designator.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for STM32F417 Demo Board\Assembly\STM32F417 Demo Board.xlsx
+DocumentPath=Project Outputs for STM32F417 Demo Board\Pick Place for PCB(Prototip).csv
 DItemRevisionGUID=
 
 [GeneratedDocument79]
+DocumentPath=Project Outputs for STM32F417 Demo Board\Pick Place for PCB(Prototip).txt
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for STM32F417 Demo Board\Pick Place for PCB(Prototip_Assembly).csv
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for STM32F417 Demo Board\Pick Place for PCB(Prototip_Assembly).txt
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for STM32F417 Demo Board\Assembly\STM32F417 Demo Board.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument83]
 DocumentPath=Project Outputs for STM32F417 Demo Board\Bill of Materials\STM32F417 Demo Board.xlsx
 DItemRevisionGUID=
 
@@ -1153,12 +1271,122 @@ OutputName1=Assembly Drawings
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.22|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ForceUpdateSettings
+Configuration1_Item1=False
+Configuration1_Name2=OutputConfigurationParameter1
+Configuration1_Item2=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name3=OutputConfigurationParameter2
+Configuration1_Item3=IncludeBoardCutouts=False|IncludeBottomLayerComponents=False|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Top LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name4=OutputConfigurationParameter3
+Configuration1_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=TopLayer|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name5=OutputConfigurationParameter4
+Configuration1_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name6=OutputConfigurationParameter5
+Configuration1_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name7=OutputConfigurationParameter6
+Configuration1_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name8=OutputConfigurationParameter7
+Configuration1_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name9=OutputConfigurationParameter8
+Configuration1_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name10=OutputConfigurationParameter9
+Configuration1_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical14|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name11=OutputConfigurationParameter10
+Configuration1_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name12=OutputConfigurationParameter11
+Configuration1_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name13=OutputConfigurationParameter12
+Configuration1_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical17|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name14=OutputConfigurationParameter13
+Configuration1_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical18|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name15=OutputConfigurationParameter14
+Configuration1_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical19|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name16=OutputConfigurationParameter15
+Configuration1_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name17=OutputConfigurationParameter16
+Configuration1_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical100|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name18=OutputConfigurationParameter17
+Configuration1_Item18=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical101|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name19=OutputConfigurationParameter18
+Configuration1_Item19=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical102|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name20=OutputConfigurationParameter19
+Configuration1_Item20=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=False|IncludeViewports=True|Index=1|Mirror=False|Name=Layer 3Assembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name21=OutputConfigurationParameter20
+Configuration1_Item21=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=MidLayer1|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name22=OutputConfigurationParameter21
+Configuration1_Item22=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name23=OutputConfigurationParameter22
+Configuration1_Item23=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name24=OutputConfigurationParameter23
+Configuration1_Item24=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name25=OutputConfigurationParameter24
+Configuration1_Item25=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name26=OutputConfigurationParameter25
+Configuration1_Item26=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name27=OutputConfigurationParameter26
+Configuration1_Item27=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical14|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name28=OutputConfigurationParameter27
+Configuration1_Item28=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name29=OutputConfigurationParameter28
+Configuration1_Item29=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name30=OutputConfigurationParameter29
+Configuration1_Item30=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical17|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name31=OutputConfigurationParameter30
+Configuration1_Item31=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical18|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name32=OutputConfigurationParameter31
+Configuration1_Item32=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical19|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name33=OutputConfigurationParameter32
+Configuration1_Item33=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name34=OutputConfigurationParameter33
+Configuration1_Item34=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical100|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name35=OutputConfigurationParameter34
+Configuration1_Item35=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical101|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name36=OutputConfigurationParameter35
+Configuration1_Item36=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical102|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name37=OutputConfigurationParameter36
+Configuration1_Item37=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=False|IncludeViewports=True|Index=2|Mirror=False|Name=Bottom LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name38=OutputConfigurationParameter37
+Configuration1_Item38=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=BottomLayer|Polygon=Hidden|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name39=OutputConfigurationParameter38
+Configuration1_Item39=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name40=OutputConfigurationParameter39
+Configuration1_Item40=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name41=OutputConfigurationParameter40
+Configuration1_Item41=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name42=OutputConfigurationParameter41
+Configuration1_Item42=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name43=OutputConfigurationParameter42
+Configuration1_Item43=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name44=OutputConfigurationParameter43
+Configuration1_Item44=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical14|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name45=OutputConfigurationParameter44
+Configuration1_Item45=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name46=OutputConfigurationParameter45
+Configuration1_Item46=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name47=OutputConfigurationParameter46
+Configuration1_Item47=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical17|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name48=OutputConfigurationParameter47
+Configuration1_Item48=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical18|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name49=OutputConfigurationParameter48
+Configuration1_Item49=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical19|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name50=OutputConfigurationParameter49
+Configuration1_Item50=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name51=OutputConfigurationParameter50
+Configuration1_Item51=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical100|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name52=OutputConfigurationParameter51
+Configuration1_Item52=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical101|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
+Configuration1_Name53=OutputConfigurationParameter52
+Configuration1_Item53=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical102|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
 OutputType2=Pick Place
 OutputName2=Generates pick and place files
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=True|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=False|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:Ascending,SortIndex:0,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:False,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:5|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:7|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:8|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:9|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:6|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:10|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:15|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:16|Column#17=Name:ComponentLink3Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#18=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#19=Name:Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#20=Name:Supplier Currency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#21=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#22=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#23=Name:Component Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#24=Name:Component Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#25=Name:Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#26=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#27=Name:Supplier Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#28=Name:Supplier,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#29=Name:Supplier Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#30=Name:Temperature Coefficient,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#31=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#32=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#33=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#34=Name:ComponentLink3URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#35=Name:Saturation Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#36=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#37=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#38=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:True,Sort:None,Position:2,Type:0|Column#39=Name:Price, Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#40=Name:Price, Min,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#41=Name:Operating Temperature, Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#42=Name:Operating Temperature, Min,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#43=Name:Quantity, Max,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#44=Name:Voltage, Break Down,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#45=Name:Voltage, Stand Off,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#46=Name:Quantity, Min,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|DocumentPath=E:\Altium\Projects\STM32F417 Demo Board\PCB.PcbDoc
 OutputType3=Test Points For Assembly
 OutputName3=Test Point Report
 OutputDocumentPath3=
@@ -1607,6 +1835,7 @@ Type147=1
 Type148=1
 Type149=1
 Type150=1
+Type151=1
 
 [Difference Levels]
 Type1=1
@@ -1690,6 +1919,7 @@ Type78=1
 Type79=1
 Type80=1
 Type81=1
+Type82=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1846,6 +2076,13 @@ Type151=2
 Type152=1
 Type153=1
 Type154=0
+Type155=0
+Type156=0
+Type157=0
+Type158=0
+Type159=0
+Type160=0
+Type161=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

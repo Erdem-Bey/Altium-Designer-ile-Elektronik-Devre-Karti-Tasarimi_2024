@@ -1,0 +1,267 @@
+Altium Designer Pick and Place Locations
+E:\Altium\Projects\STM32F417 Demo Board\Project Outputs for STM32F417 Demo Board\Pick Place for PCB(Prototip_Assembly).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       19-01-25
+Time:       20:25
+Revision:   Not in VersionControl
+Variant:    Prototip_Assembly
+Units used: mm
+
+Designator "Manufacturer Part Number" Layer       Description                                    Center-X(mm) Center-Y(mm) Rotation 
+C100       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 70.5000mm    35.5000mm    180      
+C101       GRM21BR60J226ME39K         TopLayer    "Cap, Cer, 22uF, 6.3V, M2012"                  77.0000mm    39.0000mm    180      
+C102       GRM21BR60J226ME39K         TopLayer    "Cap, Cer, 22uF, 6.3V, M2012"                  77.0000mm    40.5000mm    180      
+C104       GRM21BR60J226ME39K         TopLayer    "Cap, Cer, 22uF, 6.3V, M2012"                  73.0000mm    39.0000mm    0        
+C105       GRM21BR60J226ME39K         TopLayer    "Cap, Cer, 22uF, 6.3V, M2012"                  73.0000mm    40.5000mm    0        
+C106       0402N220J250CT             TopLayer    "Cap, Cer, 22pF, 25V, M1005"                   80.0000mm    35.0000mm    0        
+C107       CC0402KRX7R9BB272          TopLayer    "Cap, Cer, 2.7nF, 50V, M1005"                  81.5000mm    34.5000mm    90       
+C108       GRM21BR60J226ME39K         TopLayer    "Cap, Cer, 22uF, 6.3V, M2012"                  88.5000mm    12.0000mm    90       
+C109       GRM21BR60J226ME39K         TopLayer    "Cap, Cer, 22uF, 6.3V, M2012"                  90.0000mm    12.0000mm    90       
+C110       0402N220J250CT             TopLayer    "Cap, Cer, 22pF, 25V, M1005"                   88.5000mm    7.5000mm     90       
+C111       GRM21BR60J226ME39K         TopLayer    "Cap, Cer, 22uF, 6.3V, M2012"                  85.5000mm    13.5000mm    0        
+C112       GRM21BR60J226ME39K         TopLayer    "Cap, Cer, 22uF, 6.3V, M2012"                  85.5000mm    15.0000mm    0        
+C200       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 64.0000mm    21.0000mm    90       
+C201       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 64.0000mm    24.0000mm    270      
+C202       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 44.0000mm    21.0000mm    90       
+C203       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 44.0000mm    24.0000mm    270      
+C600       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 26.0000mm    72.5000mm    0        
+C601       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 26.0000mm    82.5000mm    0        
+C602       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 27.5000mm    95.0000mm    270      
+C620       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 15.5000mm    32.5000mm    0        
+C621       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 19.5000mm    22.0000mm    270      
+C622       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 15.5000mm    22.5000mm    180      
+C623       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 15.5000mm    21.5000mm    0        
+C624       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 18.0000mm    22.0000mm    0        
+C640       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 24.0000mm    65.0000mm    90       
+C641       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 24.0000mm    59.0000mm    90       
+C660       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 56.5000mm    69.0000mm    270      
+C661       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 48.5000mm    72.0000mm    0        
+C662       CL10A475KQ8NNNC            TopLayer    "Cap, Cer, 4.7uF, 6.3V, M1608"                 78.0000mm    22.4000mm    270      
+C663       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 80.5000mm    22.0000mm    180      
+C664       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 85.5000mm    27.5000mm    90       
+C665       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 83.0000mm    28.5000mm    90       
+C666       0402N220J250CT             TopLayer    "Cap, Cer, 22pF, 25V, M1005"                   89.0000mm    23.5000mm    180      
+C667       0402N220J250CT             TopLayer    "Cap, Cer, 22pF, 25V, M1005"                   89.0000mm    26.5000mm    180      
+C668       CC1206MKX7RDBB102          BottomLayer "Cap, Cer, 1nF, 2kV, M3216"                    97.0000mm    31.6000mm    0        
+C700       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 45.0000mm    50.5000mm    0        
+C701       0402N220J250CT             TopLayer    "Cap, Cer, 22pF, 25V, M1005"                   32.5000mm    56.0000mm    270      
+C702       0402N220J250CT             TopLayer    "Cap, Cer, 22pF, 25V, M1005"                   32.5000mm    54.0000mm    90       
+C703       CL10A475KQ8NNNC            BottomLayer "Cap, Cer, 4.7uF, 6.3V, M1608"                 52.5000mm    50.0000mm    180      
+C704       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 45.0000mm    44.5000mm    180      
+C705       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 45.0000mm    47.5000mm    0        
+C706       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 55.5000mm    56.0000mm    180      
+C707       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 44.5000mm    52.0000mm    90       
+C708       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 56.0000mm    45.0000mm    90       
+C709       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 44.0000mm    55.5000mm    0        
+C710       CL05A105MQ5NNNC            BottomLayer "Cap, Cer, 1uF, 6.3V, M1005"                   45.0000mm    48.5000mm    0        
+C711       CL05A105MQ5NNNC            BottomLayer "Cap, Cer, 1uF, 6.3V, M1005"                   47.5000mm    46.5000mm    90       
+C712       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 45.0000mm    45.5000mm    0        
+C713       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 45.0000mm    46.5000mm    0        
+C714       0402N160J500CT             TopLayer    "Cap, Cer, 16pF, 50V, M1005"                   32.5000mm    48.0000mm    135      
+C715       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 44.5000mm    54.0000mm    90       
+C716       CL05A225MQ5NNNC            BottomLayer "Cap, Cer, 2.2uF, 6.3V, M1005"                 55.0000mm    45.0000mm    90       
+C717       CL05A225MQ5NNNC            BottomLayer "Cap, Cer, 2.2uF, 6.3V, M1005"                 55.5000mm    55.0000mm    180      
+C718       0402N160J500CT             TopLayer    "Cap, Cer, 16pF, 50V, M1005"                   32.5000mm    51.5000mm    225      
+C740       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 33.0000mm    34.5000mm    90       
+C741       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 29.7500mm    39.0000mm    270      
+C742       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 30.0000mm    34.5000mm    90       
+C743       CL21A106MQFNNNE            TopLayer    "Cap, Cer, 10uF, 6.3V, M2012"                  32.0000mm    38.5000mm    0        
+C744       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 20.5000mm    39.5000mm    0        
+C745       CL21A106MQFNNNE            TopLayer    "Cap, Cer, 10uF, 6.3V, M2012"                  34.5000mm    37.0000mm    90       
+C746       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 34.7500mm    39.0000mm    180      
+C747       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 30.5000mm    37.2000mm    0        
+C748       04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 31.0000mm    34.5000mm    90       
+C749       CC1206MKX7RDBB102          TopLayer    "Cap, Cer, 1nF, 2kV, M3216"                    39.0000mm    17.0000mm    180      
+C750       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 32.5000mm    29.2500mm    0        
+C751       CC1206MKX7RDBB102          BottomLayer "Cap, Cer, 1nF, 2kV, M3216"                    28.5000mm    14.5000mm    270      
+C752       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 24.4000mm    29.2500mm    0        
+C753       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 30.8000mm    29.2500mm    0        
+C754       04026D104KAT4A             BottomLayer "Cap, Cer, 100nF, 6.3V, M1005"                 26.1500mm    29.2500mm    0        
+C40_Bt1    04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 59.5000mm    62.0000mm    270      
+C40_Bt2    04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 71.0000mm    62.0000mm    270      
+C40_Bt3    04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 82.5000mm    62.0000mm    270      
+C60_Sw1    04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 67.5000mm    51.5000mm    90       
+C60_Sw2    04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 74.5000mm    51.5000mm    90       
+C60_Sw3    04026D104KAT4A             TopLayer    "Cap, Cer, 100nF, 6.3V, M1005"                 81.5000mm    51.5000mm    90       
+Conn140    S04B-XASK-1(LF)(SN)        TopLayer    "Conn, JST, 4P, TH, XA, Side Entry"            5.7500mm     80.0000mm    90       
+Conn141    S06B-PASK-2(LF)(SN)        TopLayer    "Conn, JST, 6P, TH, PA, Side Entry"            7.4500mm     45.0000mm    90       
+Conn200    S16B-PADSS-1(LF)(SN)       TopLayer    "Conn, JST, 16P, TH, PAD, Side Entry"          69.0000mm    11.3000mm    180      
+Conn201    S16B-PADSS-1(LF)(SN)       TopLayer    "Conn, JST, 16P, TH, PAD, Side Entry"          49.0000mm    11.3000mm    180      
+Conn600    S04B-XASK-1(LF)(SN)        TopLayer    "Conn, JST, 4P, TH, XA, Side Entry"            27.5000mm    94.2500mm    0        
+Conn620    S06B-PASK-2(LF)(SN)        TopLayer    "Conn, JST, 6P, TH, PA, Side Entry"            7.4500mm     27.5000mm    90       
+Conn640    S10B-PADSS-1(LF)(SN)       TopLayer    "Conn, JST, 10P, TH, PAD, Side Entry"          10.8000mm    62.5000mm    90       
+Conn660    USB4056-03-A               TopLayer    "Conn, USB, TYPE-C"                            95.4000mm    25.0000mm    90       
+Conn700    XG4C-2034                  TopLayer    "Conn, Header, 20P, RA, TH, Shrouded"          87.7300mm    48.4300mm    90       
+Conn740    RJHSE5381A1                TopLayer    "Conn, RJ45, 2 Leds, Shielded, Side Entry"     28.5080mm    10.0320mm    0        
+D100       CES521,L3F                 TopLayer    "Diode, Schottky, 30V, 200mA, SOD-523"         69.0000mm    34.5000mm    90       
+D101       SML-D12M1WT86              TopLayer    "Diode, Led, Green-Yellow, 2.2V, 20mA, M1608"  72.0000mm    42.7500mm    90       
+D102       SML-D12M1WT86              TopLayer    "Diode, Led, Green-Yellow, 2.2V, 20mA, M1608"  81.5000mm    15.5000mm    180      
+D103       SML-D12M1WT86              TopLayer    "Diode, Led, Green-Yellow, 2.2V, 20mA, M1608"  89.5000mm    8.0000mm     270      
+D200       SML-D12U1WT86              TopLayer    "Diode, Led, Red, 2.2V, 20mA, M1608"           47.0000mm    63.7500mm    270      
+D201       SML-D12D1WT86              TopLayer    "Diode, Led, Orange, 2.2V, 20mA, M1608"        42.5000mm    63.7500mm    270      
+D202       SML-D12Y1WT86              TopLayer    "Diode, Led, Yellow, 2.2V, 20mA, M1608"        38.0000mm    63.7500mm    270      
+D203       SML-D12M1WT86              TopLayer    "Diode, Led, Green-Yellow, 2.2V, 20mA, M1608"  33.5000mm    63.7500mm    270      
+D600       DF3A6.8LFV,L3F             BottomLayer "Diode, TVS, 5V/6.8V, SOD-723"                 27.5000mm    93.0000mm    0        
+D660       SML-D12M1WT86              TopLayer    "Diode, Led, Green-Yellow, 2.2V, 20mA, M1608"  89.0000mm    20.5000mm    180      
+D661       SML-D12D1WT86              TopLayer    "Diode, Led, Orange, 2.2V, 20mA, M1608"        89.0000mm    22.5000mm    180      
+D662       SML-D12U1WT86              TopLayer    "Diode, Led, Red, 2.2V, 20mA, M1608"           89.0000mm    18.5000mm    180      
+D663       DF3A6.8LFV,L3F             BottomLayer "Diode, TVS, 5V/6.8V, SOD-723"                 95.5000mm    25.0000mm    270      
+D740       SML-D12D1WT86              TopLayer    "Diode, Led, Orange, 2.2V, 20mA, M1608"        15.0000mm    12.5000mm    180      
+IC100      RT2862GSP                  TopLayer    "IC, Power, Buck, SOP-8"                       75.0000mm    35.0000mm    0        
+IC101      AP3441SHE-7B               TopLayer    "IC, Power, Buck, DFN-8, 2x2"                  86.0000mm    10.5000mm    180      
+IC200      74LVC4245APW,118           TopLayer    "IC, Buffer, TSSOP-24"                         69.0000mm    22.5000mm    90       
+IC201      74LVC4245APW,118           TopLayer    "IC, Buffer, TSSOP-24"                         49.0000mm    22.5000mm    90       
+IC600      ISO1050DUBR                TopLayer    "IC, Interface, CAN, DIP-8, Gull Wing"         27.5000mm    77.5000mm    90       
+IC620      TRS3232IPWR                TopLayer    "IC, Interface, RS232, TSSOP-24"               17.5000mm    27.5000mm    90       
+IC640      SN65HVD30DR                TopLayer    "IC, Interface, RS422, SOIC-8"                 22.5000mm    65.5000mm    180      
+IC641      SN65HVD30DR                TopLayer    "IC, Interface, RS422, SOIC-8"                 22.5000mm    59.5000mm    180      
+IC660      AMC0802BR-B-B6WTDW-I2C     TopLayer    "Module, Display, Lcd, 2 Lines, I2C"           62.1100mm    82.5000mm    0        
+IC661      NVT2002DP,118              TopLayer    "IC, Interface, I2C, TSSOP-8"                  52.5000mm    70.0000mm    180      
+IC662      FT230XQ-R                  TopLayer    "IC, Interface, FTDI, QFN-16"                  82.5000mm    25.0000mm    90       
+IC700      STM32F417VGT6              TopLayer    "IC, MCU, STM32F417, QFP-100"                  50.0000mm    50.0000mm    0        
+IC740      DP83848IVV/NOPB            BottomLayer "IC, Interface, Eth Phy, 10/100Mb, DP83848IVV" 32.5000mm    36.5000mm    180      
+IC741      ECS-2333-500-BN-TR         TopLayer    "IC, Oscillator, 50MHz"                        21.0000mm    37.5000mm    0        
+L100       NRS5020T4R7MMGJ            TopLayer    "Inductor, Power, 4.7uH, 2A, 5x5x2mm"          69.0000mm    39.0000mm    90       
+L101       NRS4018T2R2MDGJ            TopLayer    "Inductor, Power, 2.2uH, 3A, 4x4x1.8mm"        82.0000mm    12.5000mm    90       
+Q80_LdG    RE1C001UNTCL               TopLayer    "MOSFET, N-CH, 20V, 100mA, SOT-416FL"          32.0000mm    63.0000mm    270      
+Q80_LdO    RE1C001UNTCL               TopLayer    "MOSFET, N-CH, 20V, 100mA, SOT-416FL"          41.0000mm    63.0000mm    270      
+Q80_LdR    RE1C001UNTCL               TopLayer    "MOSFET, N-CH, 20V, 100mA, SOT-416FL"          45.5000mm    63.0000mm    270      
+Q80_LdY    RE1C001UNTCL               TopLayer    "MOSFET, N-CH, 20V, 100mA, SOT-416FL"          36.5000mm    63.0000mm    270      
+R101       RC0402FR-0775KL            TopLayer    "Res, 75K, 1%, M1005"                          80.0000mm    32.0000mm    180      
+R102       RC0402FR-071KP             TopLayer    "Res, 1K, 1%, M1005"                           73.5000mm    43.5000mm    0        
+R103       RC0402FR-0724KL            TopLayer    "Res, 24K, 1%, M1005"                          78.0000mm    31.5000mm    180      
+R104       RC0402FR-07150KL           TopLayer    "Res, 150K, 1%, M1005"                         70.5000mm    34.5000mm    0        
+R105       RC0402FR-0756KL            TopLayer    "Res, 56K, 1%, M1005"                          80.0000mm    37.0000mm    0        
+R106       RC0402FR-0756KL            TopLayer    "Res, 56K, 1%, M1005"                          80.0000mm    36.0000mm    180      
+R107       RC0402FR-0716KL            TopLayer    "Res, 16K, 1%, M1005"                          80.0000mm    34.0000mm    0        
+R109       RC0402FR-07453KL           TopLayer    "Res, 453K, 1%, M1005"                         87.5000mm    7.5000mm     90       
+R110       RC0402FR-071KP             TopLayer    "Res, 1K, 1%, M1005"                           81.5000mm    17.0000mm    0        
+R111       RC0402FR-07100KP           TopLayer    "Res, 100K, 1%, M1005"                         86.5000mm    9.0000mm     180      
+R112       RC0402FR-070RL             TopLayer    "Res, 0R, M1005"                               83.0000mm    9.5000mm     0        
+R113       RC0402FR-071KP             TopLayer    "Res, 1K, 1%, M1005"                           88.5000mm    9.5000mm     270      
+R140       RC0402FR-072K2L            TopLayer    "Res, 2.2K, 1%, M1005"                         12.5000mm    81.2000mm    180      
+R141       RC0402FR-072K2L            TopLayer    "Res, 2.2K, 1%, M1005"                         12.5000mm    76.2000mm    180      
+R142       RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         12.5000mm    50.0000mm    0        
+R143       RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         12.5000mm    46.0000mm    0        
+R144       RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         12.5000mm    44.0000mm    0        
+R145       RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         12.5000mm    40.0000mm    0        
+R201       RC0402FR-070RL             TopLayer    "Res, 0R, M1005"                               62.5000mm    24.5000mm    0        
+R202       RC0402FR-070RL             TopLayer    "Res, 0R, M1005"                               62.5000mm    21.0000mm    180      
+R204       RC0402FR-070RL             TopLayer    "Res, 0R, M1005"                               42.5000mm    24.5000mm    0        
+R205       RC0402FR-070RL             TopLayer    "Res, 0R, M1005"                               42.5000mm    21.0000mm    180      
+R300       RC0402FR-070RL             TopLayer    "Res, 0R, M1005"                               5.0000mm     90.0000mm    270      
+R301       RC0402FR-070RL             TopLayer    "Res, 0R, M1005"                               95.0000mm    90.0000mm    90       
+R302       RC0402FR-070RL             TopLayer    "Res, 0R, M1005"                               5.0000mm     10.0000mm    90       
+R303       RC0402FR-070RL             TopLayer    "Res, 0R, M1005"                               95.0000mm    10.0000mm    270      
+R605       RC0805FR-0760R4L           BottomLayer "Res, 60.4R, 1%, M1005"                        26.0000mm    94.0000mm    90       
+R606       RC0805FR-0760R4L           BottomLayer "Res, 60.4R, 1%, M1005"                        29.0000mm    94.0000mm    270      
+R621       RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         17.8250mm    33.0000mm    270      
+R622       RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         19.7750mm    33.0000mm    270      
+R640       RC0805FR-0760R4L           BottomLayer "Res, 60.4R, 1%, M1005"                        14.5000mm    65.5000mm    90       
+R642       RC0805FR-0760R4L           BottomLayer "Res, 60.4R, 1%, M1005"                        8.5000mm     65.5000mm    90       
+R643       RC0402FR-0722RL            TopLayer    "Res, 22R, 1%, M1005"                          17.0000mm    63.5950mm    180      
+R644       RC0402FR-0710KP            TopLayer    "Res, 10K, 1%, M1005"                          28.0000mm    63.6000mm    180      
+R645       RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         28.0000mm    64.8000mm    180      
+R646       RC0402FR-0722RL            TopLayer    "Res, 22R, 1%, M1005"                          17.0000mm    64.8650mm    180      
+R647       RC0805FR-0760R4L           BottomLayer "Res, 60.4R, 1%, M1005"                        8.5000mm     59.5000mm    270      
+R648       RC0402FR-0722RL            TopLayer    "Res, 22R, 1%, M1005"                          17.0000mm    67.4050mm    180      
+R649       RC0402FR-0722RL            TopLayer    "Res, 22R, 1%, M1005"                          17.0000mm    66.1350mm    180      
+R650       RC0805FR-0760R4L           BottomLayer "Res, 60.4R, 1%, M1005"                        14.5000mm    59.5000mm    270      
+R651       RC0402FR-0722RL            TopLayer    "Res, 22R, 1%, M1005"                          17.0000mm    57.5950mm    180      
+R652       RC0402FR-0710KP            TopLayer    "Res, 10K, 1%, M1005"                          28.0000mm    57.6000mm    180      
+R653       RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         28.0000mm    58.8000mm    180      
+R654       RC0402FR-0722RL            TopLayer    "Res, 22R, 1%, M1005"                          17.0000mm    58.8650mm    180      
+R655       RC0402FR-0722RL            TopLayer    "Res, 22R, 1%, M1005"                          17.0000mm    61.4050mm    180      
+R656       RC0402FR-0722RL            TopLayer    "Res, 22R, 1%, M1005"                          17.0000mm    60.1350mm    180      
+R660       RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         45.0000mm    78.0000mm    0        
+R661       RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         45.0000mm    77.0000mm    0        
+R662       RC0402FR-0710KP            TopLayer    "Res, 10K, 1%, M1005"                          45.0000mm    84.0000mm    180      
+R663       RC0402FR-07200KL           TopLayer    "Res, 200K, 1%, M1005"                         48.0000mm    70.0000mm    90       
+R664       RC0402FR-0710KP            TopLayer    "Res, 10K, 1%, M1005"                          45.0000mm    86.0000mm    0        
+R665       RC0402FR-0710KP            TopLayer    "Res, 10K, 1%, M1005"                          53.5000mm    72.5000mm    180      
+R666       RC0402FR-0710KP            TopLayer    "Res, 10K, 1%, M1005"                          56.5000mm    71.0000mm    90       
+R667       RC0402FR-0710KP            TopLayer    "Res, 10K, 1%, M1005"                          48.5000mm    73.5000mm    0        
+R668       RC0402FR-0710KP            TopLayer    "Res, 10K, 1%, M1005"                          48.5000mm    74.5000mm    0        
+R671       RC0402FR-074K7L            TopLayer    "Res, 4.7K, 1%, M1005"                         78.5000mm    25.0000mm    0        
+R672       RC0402FR-074K7L            TopLayer    "Res, 4.7K, 1%, M1005"                         82.0000mm    20.5000mm    90       
+R673       RC0402FR-074K7L            TopLayer    "Res, 4.7K, 1%, M1005"                         78.5000mm    24.0000mm    0        
+R674       RC0402FR-074K7L            TopLayer    "Res, 4.7K, 1%, M1005"                         84.0000mm    21.5000mm    90       
+R675       RC0402FR-074K7L            TopLayer    "Res, 4.7K, 1%, M1005"                         81.0000mm    28.5000mm    270      
+R676       RC0402FR-0722RL            BottomLayer "Res, 22R, 1%, M1005"                          89.0000mm    25.5000mm    180      
+R677       RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         87.0000mm    20.5000mm    0        
+R678       RC0402FR-0710KP            TopLayer    "Res, 10K, 1%, M1005"                          80.0000mm    28.5000mm    90       
+R679       RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         87.0000mm    22.5000mm    0        
+R680       RC0402FR-0722RL            BottomLayer "Res, 22R, 1%, M1005"                          89.0000mm    24.5000mm    180      
+R681       RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         87.0000mm    18.5000mm    0        
+R700       RC0402FR-0722RL            TopLayer    "Res, 22R, 1%, M1005"                          83.5000mm    39.6000mm    0        
+R701       RC0402FR-0722RL            TopLayer    "Res, 22R, 1%, M1005"                          83.5000mm    42.1000mm    0        
+R702       RC0402FR-0722RL            TopLayer    "Res, 22R, 1%, M1005"                          83.5000mm    44.6000mm    0        
+R703       RC0402FR-0722RL            TopLayer    "Res, 22R, 1%, M1005"                          83.5000mm    47.2000mm    0        
+R704       RC0402FR-0722RL            TopLayer    "Res, 22R, 1%, M1005"                          83.5000mm    52.2000mm    0        
+R705       RC0402FR-0722RL            TopLayer    "Res, 22R, 1%, M1005"                          83.5000mm    54.8000mm    0        
+R706       RC0402FR-0710KP            TopLayer    "Res, 10K, 1%, M1005"                          28.0000mm    47.5000mm    90       
+R707       RC0402FR-071KP             BottomLayer "Res, 1K, 1%, M1005"                           45.0000mm    49.5000mm    180      
+R708       RC0402FR-070RL             TopLayer    "Res, 0R, M1005"                               35.5000mm    56.0000mm    90       
+R709       RC0402FR-070RL             TopLayer    "Res, 0R, M1005"                               35.5000mm    54.0000mm    270      
+R712       RC0402FR-070RL             BottomLayer "Res, 0R, M1005"                               50.0000mm    53.5000mm    180      
+R713       RC0402FR-070RL             BottomLayer "Res, 0R, M1005"                               50.0000mm    52.0000mm    180      
+R714       RC0402FR-070RL             TopLayer    "Res, 0R, M1005"                               38.5000mm    50.8000mm    180      
+R715       RC0402FR-070RL             TopLayer    "Res, 0R, M1005"                               38.5000mm    49.8000mm    180      
+R740       RC0402FR-072K2L            BottomLayer "Res, 2.2K, 1%, M1005"                         31.5000mm    43.0000mm    270      
+R741       RC0402FR-072K2L            BottomLayer "Res, 2.2K, 1%, M1005"                         30.5000mm    43.0000mm    270      
+R742       RC0402FR-0710KP            TopLayer    "Res, 10K, 1%, M1005"                          30.5000mm    36.0000mm    180      
+R743       RC0402FR-072K2L            BottomLayer "Res, 2.2K, 1%, M1005"                         28.5000mm    29.0000mm    0        
+R744       RC0402FR-072K2L            BottomLayer "Res, 2.2K, 1%, M1005"                         28.5000mm    30.0000mm    0        
+R746       RC0402FR-074K87L           BottomLayer "Res, 4.87K, 1%, M1005"                        28.5000mm    31.5000mm    180      
+R748       RC0402FR-07330RL           BottomLayer "Res, 330R, 1%, M1005"                         24.5000mm    32.5000mm    0        
+R749       RC0402FR-07330RL           BottomLayer "Res, 330R, 1%, M1005"                         24.5000mm    31.5000mm    0        
+R750       RC0402FR-0751RL            BottomLayer "Res, 51R, 1%, M1005"                          32.9450mm    28.0000mm    90       
+R751       RC0402FR-0751RL            BottomLayer "Res, 51R, 1%, M1005"                          30.4050mm    28.0000mm    270      
+R752       RC0402FR-07330RL           BottomLayer "Res, 330R, 1%, M1005"                         24.5000mm    33.5000mm    0        
+R753       RC0402FR-0751RL            BottomLayer "Res, 51R, 1%, M1005"                          26.5950mm    28.0000mm    90       
+R754       RC0402FR-0751RL            BottomLayer "Res, 51R, 1%, M1005"                          24.0550mm    28.0000mm    270      
+R755       RC0402FR-0775RL            BottomLayer "Res, 75R, 1%, M1005"                          27.0000mm    19.5000mm    0        
+R756       RC0402FR-0775RL            BottomLayer "Res, 75R, 1%, M1005"                          30.0000mm    19.5000mm    180      
+R757       RC0402FR-071K5L            TopLayer    "Res, 1.5K, 1%, M1005"                         27.5000mm    36.7500mm    180      
+R758       RC0402FR-072K2L            TopLayer    "Res, 2.2K, 1%, M1005"                         24.5000mm    32.5000mm    0        
+R759       RC0402FR-072K2L            TopLayer    "Res, 2.2K, 1%, M1005"                         24.5000mm    31.5000mm    0        
+R760       RC0402FR-072K2L            TopLayer    "Res, 2.2K, 1%, M1005"                         24.5000mm    33.5000mm    0        
+R40_Bt1    RC0402FR-071KP             TopLayer    "Res, 1K, 1%, M1005"                           58.5000mm    62.0000mm    90       
+R40_Bt2    RC0402FR-071KP             TopLayer    "Res, 1K, 1%, M1005"                           70.0000mm    62.0000mm    90       
+R40_Bt3    RC0402FR-071KP             TopLayer    "Res, 1K, 1%, M1005"                           81.5000mm    62.0000mm    90       
+R41_Bt1    RC0402FR-07100KP           TopLayer    "Res, 100K, 1%, M1005"                         49.5000mm    62.0000mm    90       
+R41_Bt2    RC0402FR-07100KP           TopLayer    "Res, 100K, 1%, M1005"                         61.0000mm    62.0000mm    90       
+R41_Bt3    RC0402FR-07100KP           TopLayer    "Res, 100K, 1%, M1005"                         72.5000mm    62.0000mm    90       
+R80_LdG    RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         32.0000mm    64.5000mm    0        
+R81_LdG    RC0402FR-07100KP           TopLayer    "Res, 100K, 1%, M1005"                         30.5000mm    63.0000mm    270      
+R80_LdO    RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         41.0000mm    64.5000mm    0        
+R81_LdO    RC0402FR-07100KP           TopLayer    "Res, 100K, 1%, M1005"                         39.5000mm    63.0000mm    270      
+R80_LdR    RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         45.5000mm    64.5000mm    0        
+R81_LdR    RC0402FR-07100KP           TopLayer    "Res, 100K, 1%, M1005"                         44.0000mm    63.0000mm    270      
+R80_LdY    RC0402FR-07330RL           TopLayer    "Res, 330R, 1%, M1005"                         36.5000mm    64.5000mm    0        
+R81_LdY    RC0402FR-07100KP           TopLayer    "Res, 100K, 1%, M1005"                         35.0000mm    63.0000mm    270      
+R60_Sw1    RC0402FR-071KP             TopLayer    "Res, 1K, 1%, M1005"                           67.5000mm    49.0000mm    90       
+R60_Sw2    RC0402FR-071KP             TopLayer    "Res, 1K, 1%, M1005"                           74.5000mm    49.0000mm    90       
+R60_Sw3    RC0402FR-071KP             TopLayer    "Res, 1K, 1%, M1005"                           81.5000mm    49.0000mm    90       
+R61_Sw1    RC0402FR-07100KP           TopLayer    "Res, 100K, 1%, M1005"                         67.0000mm    46.0000mm    0        
+R61_Sw2    RC0402FR-07100KP           TopLayer    "Res, 100K, 1%, M1005"                         74.0000mm    46.0000mm    0        
+R61_Sw3    RC0402FR-07100KP           TopLayer    "Res, 100K, 1%, M1005"                         81.0000mm    46.0000mm    0        
+Sw700      EVQ-Q2K03W                 TopLayer    "Switch, Tactile, SPST, SMD"                   22.5000mm    47.5000mm    180      
+Sw40_Bt1   EVQ-Q2K03W                 TopLayer    "Switch, Tactile, SPST, SMD"                   54.0000mm    62.5000mm    180      
+Sw40_Bt2   EVQ-Q2K03W                 TopLayer    "Switch, Tactile, SPST, SMD"                   65.5000mm    62.5000mm    180      
+Sw40_Bt3   EVQ-Q2K03W                 TopLayer    "Switch, Tactile, SPST, SMD"                   77.0000mm    62.5000mm    180      
+Sw60_Sw1   SDA01H1SBD                 TopLayer    "Switch, Slide, SPST, SMD"                     64.5000mm    51.0000mm    0        
+Sw60_Sw2   SDA01H1SBD                 TopLayer    "Switch, Slide, SPST, SMD"                     71.5000mm    51.0000mm    0        
+Sw60_Sw3   SDA01H1SBD                 TopLayer    "Switch, Slide, SPST, SMD"                     78.5000mm    51.0000mm    0        
+TR740      SM13126PEL                 TopLayer    "Transformer, Eth, 100Mbps, SM13126PEL"        28.5000mm    22.5000mm    270      
+TVS620     CDSOT23-SM712              BottomLayer "TVS, 2P, Bidirectional, 7V/12V, SOT-23-3"     5.0000mm     30.5000mm    90       
+TVS621     CDSOT23-SM712              BottomLayer "TVS, 2P, Bidirectional, 7V/12V, SOT-23-3"     5.0000mm     24.5000mm    90       
+TVS640     CDSOT23-SM712              BottomLayer "TVS, 2P, Bidirectional, 7V/12V, SOT-23-3"     17.0000mm    59.5000mm    270      
+TVS641     CDSOT23-SM712              BottomLayer "TVS, 2P, Bidirectional, 7V/12V, SOT-23-3"     6.0000mm     65.5000mm    90       
+TVS642     CDSOT23-SM712              BottomLayer "TVS, 2P, Bidirectional, 7V/12V, SOT-23-3"     17.0000mm    65.4600mm    270      
+TVS643     CDSOT23-SM712              BottomLayer "TVS, 2P, Bidirectional, 7V/12V, SOT-23-3"     6.0000mm     59.5000mm    90       
+Xtal700    NX3215SA-32.768K-STD-MUS-2 TopLayer    "XTAL, 32.768kHz, 12.5pF"                      34.0000mm    55.0000mm    90       
+Xtal701    CX3225SB25000H0FLJCC       TopLayer    "XTAL, 25MHz, 12pF"                            34.5000mm    50.0000mm    45       
